@@ -6,6 +6,15 @@ June 25-26, 2018
 
 Agenda: https://anelda.github.io/2018-06-25-ttt-DIBSI/
 
+Etherpads:
+
+* http://pad.software-carpentry.org/2018-06-25-DIBSI (instructor training)
+* http://pad.software-carpentry.org/2018-06-27-DIBSI-Unix-Git-R (DIBSI workshop where I was a helper)
+* http://pad.software-carpentry.org/git-unix-R-template (mine - for my checkout)
+
+HackMD - online notepads - https://hackmd.io/ 
+
+
 ### Day 1
 
 Class exercise writing a multiple choice question:
